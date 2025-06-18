@@ -265,7 +265,7 @@ export default function BlockLearnLanding() {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">TESTIMONIOS</h2>
             <p className="text-gray-600">
-              Lo que nuestros usuarios dicen sobre "FACELOCK" y cómo ha mejorado la seguridad en sus hogares.
+              Lo que nuestros usuarios dicen sobre &quot;FACELOCK&quot; y cómo ha mejorado la seguridad en sus hogares.
             </p>
           </div>
 
@@ -278,10 +278,10 @@ export default function BlockLearnLanding() {
                   ))}
                 </div>
                 <p className="text-sm text-gray-600">
-                  "Excelente plataforma para la gestión de certificados académicos. Muy fácil de usar."
+                  &quot;Excelente plataforma para la gestión de certificados académicos. Muy fácil de usar.&quot;
                 </p>
                 <div>
-                  <p className="font-semibold text-black">Lucas M. "Docente"</p>
+                  <p className="font-semibold text-black">Lucas M. &quot;Docente&quot;</p>
                 </div>
               </CardContent>
             </Card>
@@ -294,10 +294,10 @@ export default function BlockLearnLanding() {
                   ))}
                 </div>
                 <p className="text-sm text-gray-600">
-                  "La seguridad que ofrece blockchain es incomparable. Recomendado 100%."
+                  &quot;La seguridad que ofrece blockchain es incomparable. Recomendado 100%.&quot;
                 </p>
                 <div>
-                  <p className="font-semibold text-black">María R. "Estudiante"</p>
+                  <p className="font-semibold text-black">María R. &quot;Estudiante&quot;</p>
                 </div>
               </CardContent>
             </Card>
@@ -310,10 +310,10 @@ export default function BlockLearnLanding() {
                   ))}
                 </div>
                 <p className="text-sm text-gray-600">
-                  "Implementamos BlockLearn en nuestra institución y los resultados han sido excelentes."
+                  &quot;Implementamos BlockLearn en nuestra institución y los resultados han sido excelentes.&quot;
                 </p>
                 <div>
-                  <p className="font-semibold text-black">Tatiana V. "Coordinadora Académica"</p>
+                  <p className="font-semibold text-black">Tatiana V. &quot;Coordinadora Académica&quot;</p>
                 </div>
               </CardContent>
             </Card>
@@ -326,10 +326,10 @@ export default function BlockLearnLanding() {
                   ))}
                 </div>
                 <p className="text-sm text-gray-600">
-                  "La verificación de certificados nunca había sido tan sencilla y confiable."
+                  &quot;La verificación de certificados nunca había sido tan sencilla y confiable.&quot;
                 </p>
                 <div>
-                  <p className="font-semibold text-black">Diego A. "Egresado Técnico"</p>
+                  <p className="font-semibold text-black">Diego A. &quot;Egresado Técnico&quot;</p>
                 </div>
               </CardContent>
             </Card>
